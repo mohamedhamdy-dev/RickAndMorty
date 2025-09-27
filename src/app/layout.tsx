@@ -35,7 +35,6 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} bg-gray-800 bg-[url(/background.jpg)] bg-cover bg-fixed bg-center text-white antialiased`}
       >
         <Navbar />
-
         <ReactQueryProvider>{children}</ReactQueryProvider>
       </body>
     </html>
