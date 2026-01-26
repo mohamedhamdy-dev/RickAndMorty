@@ -1,7 +1,6 @@
 # Rick and Morty
 
-Rick and Morty is a frontend web application built with Next.js, focused on presenting dynamic content through a modern, responsive, and interactive user interface.  
-The project emphasizes efficient data fetching, smooth animations, and clean UI composition.
+Sleek Rick and Morty fan site built with Next.js, featuring live data from the Rick and Morty API and a custom-designed user interface crafted by me.
 
 ---
 
